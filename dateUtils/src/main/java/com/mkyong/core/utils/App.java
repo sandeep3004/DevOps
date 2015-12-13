@@ -9,7 +9,7 @@ public class App {
 
 	public static void main(String[] args) {
 
-		System.out.println(getLocalCurrentDate());
+		System.out.println(getLocalCurrentDate());sdfasdfsdf
 	}
 
 	private static String getLocalCurrentDate() { {{{{ {{{{              [[[] afasfasdf

@@ -12,7 +12,7 @@ public class App {
 		System.out.println(getLocalCurrentDate());
 	}
 
-	private static String getLocalCurrentDate() {
+	private static String getLocalCurrentDate() { {{{{
 
 		if (logger.isDebugEnabled()) {
 			logger.debug("getLocalCurrentDate() is executed!");

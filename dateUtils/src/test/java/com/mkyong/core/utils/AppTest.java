@@ -29,7 +29,7 @@ import junit.framework.TestSuite;
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testApp() kjkjkj
     {
         assertTrue( true );
     }
